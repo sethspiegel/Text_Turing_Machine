@@ -1,5 +1,5 @@
 # Text_Turing_Machine
-A working simulation of a single-tape, two-way, infinite-sized deterministic Turing machine. 
+A working simulation of a single-tape, two-way, infinite-sized, deterministic Turing machine. 
 
 First input is a file name containing the state rules you want the Turing Machine to implement.
 The state rules can contain multiple lines: Each line is either blank; a comment, indicated by 
