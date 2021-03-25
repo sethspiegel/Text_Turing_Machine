@@ -18,8 +18,6 @@
     optional comment, also indicated by “//”. States are indicated by either 
     an integer (with 0 representing the start state q0) or the letter f for 
     Final state. Σ = {0, 1} 
-        *  this program description is a modified quote from the assignment 
-         decription by Professor Eric Schweitzer
 */
 
 
