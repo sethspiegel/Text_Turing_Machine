@@ -20,3 +20,5 @@ R  //read the symbol to the right of the current one
  at each process before settling on a final indication of accepted or not.
  
  You can enter as many words as you'd like on the initialized Turing Machine until the program is exited manually.
+
+(includes 2 test files to demonstrate implementation and proper rule syntax)
